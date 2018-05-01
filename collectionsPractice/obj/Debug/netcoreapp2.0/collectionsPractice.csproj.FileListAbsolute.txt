@@ -1,0 +1,10 @@
+/Users/elizabethpedley/projects/DojoAssignments/netCore/fundamentals/collectionsPractice/bin/Debug/netcoreapp2.0/collectionsPractice.deps.json
+/Users/elizabethpedley/projects/DojoAssignments/netCore/fundamentals/collectionsPractice/bin/Debug/netcoreapp2.0/collectionsPractice.runtimeconfig.json
+/Users/elizabethpedley/projects/DojoAssignments/netCore/fundamentals/collectionsPractice/bin/Debug/netcoreapp2.0/collectionsPractice.runtimeconfig.dev.json
+/Users/elizabethpedley/projects/DojoAssignments/netCore/fundamentals/collectionsPractice/bin/Debug/netcoreapp2.0/collectionsPractice.dll
+/Users/elizabethpedley/projects/DojoAssignments/netCore/fundamentals/collectionsPractice/bin/Debug/netcoreapp2.0/collectionsPractice.pdb
+/Users/elizabethpedley/projects/DojoAssignments/netCore/fundamentals/collectionsPractice/obj/Debug/netcoreapp2.0/collectionsPractice.csproj.CoreCompileInputs.cache
+/Users/elizabethpedley/projects/DojoAssignments/netCore/fundamentals/collectionsPractice/obj/Debug/netcoreapp2.0/collectionsPractice.AssemblyInfoInputs.cache
+/Users/elizabethpedley/projects/DojoAssignments/netCore/fundamentals/collectionsPractice/obj/Debug/netcoreapp2.0/collectionsPractice.AssemblyInfo.cs
+/Users/elizabethpedley/projects/DojoAssignments/netCore/fundamentals/collectionsPractice/obj/Debug/netcoreapp2.0/collectionsPractice.dll
+/Users/elizabethpedley/projects/DojoAssignments/netCore/fundamentals/collectionsPractice/obj/Debug/netcoreapp2.0/collectionsPractice.pdb

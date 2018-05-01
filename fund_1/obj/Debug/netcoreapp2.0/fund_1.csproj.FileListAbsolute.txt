@@ -1,0 +1,10 @@
+/Users/elizabethpedley/projects/DojoAssignments/netCore/fundamentals/fund_1/bin/Debug/netcoreapp2.0/fund_1.deps.json
+/Users/elizabethpedley/projects/DojoAssignments/netCore/fundamentals/fund_1/bin/Debug/netcoreapp2.0/fund_1.runtimeconfig.json
+/Users/elizabethpedley/projects/DojoAssignments/netCore/fundamentals/fund_1/bin/Debug/netcoreapp2.0/fund_1.runtimeconfig.dev.json
+/Users/elizabethpedley/projects/DojoAssignments/netCore/fundamentals/fund_1/bin/Debug/netcoreapp2.0/fund_1.dll
+/Users/elizabethpedley/projects/DojoAssignments/netCore/fundamentals/fund_1/bin/Debug/netcoreapp2.0/fund_1.pdb
+/Users/elizabethpedley/projects/DojoAssignments/netCore/fundamentals/fund_1/obj/Debug/netcoreapp2.0/fund_1.csproj.CoreCompileInputs.cache
+/Users/elizabethpedley/projects/DojoAssignments/netCore/fundamentals/fund_1/obj/Debug/netcoreapp2.0/fund_1.AssemblyInfoInputs.cache
+/Users/elizabethpedley/projects/DojoAssignments/netCore/fundamentals/fund_1/obj/Debug/netcoreapp2.0/fund_1.AssemblyInfo.cs
+/Users/elizabethpedley/projects/DojoAssignments/netCore/fundamentals/fund_1/obj/Debug/netcoreapp2.0/fund_1.dll
+/Users/elizabethpedley/projects/DojoAssignments/netCore/fundamentals/fund_1/obj/Debug/netcoreapp2.0/fund_1.pdb
