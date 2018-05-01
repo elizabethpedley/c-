@@ -1,0 +1,10 @@
+/Users/elizabethpedley/projects/DojoAssignments/netCore/fundamentals/inheritance/bin/Debug/netcoreapp2.0/inheritance.deps.json
+/Users/elizabethpedley/projects/DojoAssignments/netCore/fundamentals/inheritance/bin/Debug/netcoreapp2.0/inheritance.runtimeconfig.json
+/Users/elizabethpedley/projects/DojoAssignments/netCore/fundamentals/inheritance/bin/Debug/netcoreapp2.0/inheritance.runtimeconfig.dev.json
+/Users/elizabethpedley/projects/DojoAssignments/netCore/fundamentals/inheritance/bin/Debug/netcoreapp2.0/inheritance.dll
+/Users/elizabethpedley/projects/DojoAssignments/netCore/fundamentals/inheritance/bin/Debug/netcoreapp2.0/inheritance.pdb
+/Users/elizabethpedley/projects/DojoAssignments/netCore/fundamentals/inheritance/obj/Debug/netcoreapp2.0/inheritance.csproj.CoreCompileInputs.cache
+/Users/elizabethpedley/projects/DojoAssignments/netCore/fundamentals/inheritance/obj/Debug/netcoreapp2.0/inheritance.AssemblyInfoInputs.cache
+/Users/elizabethpedley/projects/DojoAssignments/netCore/fundamentals/inheritance/obj/Debug/netcoreapp2.0/inheritance.AssemblyInfo.cs
+/Users/elizabethpedley/projects/DojoAssignments/netCore/fundamentals/inheritance/obj/Debug/netcoreapp2.0/inheritance.dll
+/Users/elizabethpedley/projects/DojoAssignments/netCore/fundamentals/inheritance/obj/Debug/netcoreapp2.0/inheritance.pdb
