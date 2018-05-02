@@ -43,7 +43,7 @@ namespace collectionsPractice
                  user.Add(name,"null");
              }
              Random rand = new Random();
-             var keys = new List<string>(user.Keys);
+             List<string> keys = new List<string>(user.Keys);
              foreach (var key in keys)
              {
                  user[key] = iceCream[rand.Next(0,iceCream.Count)];
